@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "contracts": [
+    {
+      "path": "skills/terzya-node-session-bootstrap/SKILL.md",
+      "version": "1.3",
+      "sha256": "0ae9ddb65e60d2fef65f3bfdcfcaa40208790ee6a03289c1431d7af468756705",
+      "acceptance_evidence": {
+        "session_id": "20260909_182131_8012f5a2",
+        "verdict": "accepted"
+      }
+    }
+  ]
+}
